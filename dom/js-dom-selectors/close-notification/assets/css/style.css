@@ -1,0 +1,54 @@
+/* CSS Esercizio 2 */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+
+        .notification {
+            background-color: #e0f7fa;
+            color: #006064;
+            padding: 20px;
+            border-left: 6px solid #00acc1;
+            border-radius: 8px;
+            position: relative;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            font-size: 1.1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: opacity 0.3s ease;
+        }
+
+        .notification p {
+            margin: 0;
+            padding-right: 20px;
+        }
+
+        .notification__close {
+            background: rgba(0, 172, 193, 0.1);
+            border: none;
+            color: #00838f;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 1.2rem;
+            border-radius: 50%;
+            width: 35px;
+            height: 35px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            flex-shrink: 0;
+        }
+
+        .notification__close:hover {
+            background: #00acc1;
+            color: white;
+            transform: scale(1.1);
+        }
