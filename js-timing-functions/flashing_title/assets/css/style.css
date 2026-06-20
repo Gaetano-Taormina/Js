@@ -1,0 +1,2 @@
+body { margin: 2rem; font-family: sans-serif; text-align: center; }
+#flashingTitle { font-size: 3rem; transition: color 0.1s; }
