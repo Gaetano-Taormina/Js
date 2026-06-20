@@ -1,0 +1,20 @@
+body {
+  margin: 2rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.lang-selector {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #eee;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
