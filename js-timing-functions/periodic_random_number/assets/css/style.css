@@ -1,0 +1,10 @@
+body {
+  margin: 2rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#number-display {
+  font-size: 3rem;
+  color: #333;
+}
