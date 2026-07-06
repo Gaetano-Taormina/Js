@@ -5,7 +5,7 @@ Questo progetto contiene una serie di esercizi per fare pratica con gli Array in
 
 ## Struttura del Progetto
 
-La repository è organizzata in cartelle separate per ciascun esercizio, numerate da `es_1` a `es_30` (incluso un eventuale esercizio extra come `inventory-check`). Ogni cartella contiene le istruzioni specifiche di quell'esercizio e i relativi file sorgente.
+La repository è organizzata in cartelle separate per ciascun esercizio, numerate con prefisso progressivo (es. `01-inventory-check`, `30-tic-tac-toe-reset`). Ogni cartella contiene le istruzioni specifiche di quell'esercizio e i relativi file sorgente.
 
 ## Dettaglio Importante sulle Soluzioni
 
@@ -19,7 +19,7 @@ This project contains a series of exercises to practice with Arrays in JavaScrip
 
 ## Project Structure
 
-The repository is organized into separate folders for each exercise, numbered from `es_1` to `es_30` (including any extra exercise like `inventory-check`). Each folder contains the specific instructions for that exercise and its related source files.
+The repository is organized into separate folders for each exercise, numbered with a sequential prefix (e.g., `01-inventory-check`, `30-tic-tac-toe-reset`). Each folder contains the specific instructions for that exercise and its related source files.
 
 ## Important Detail about Solutions
 

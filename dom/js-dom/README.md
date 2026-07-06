@@ -1,6 +1,6 @@
 # Utilizzo di Bootstrap nei Progetti
 
-In questa cartella, per i progetti da `es_1` a `es_10`, è stato integrato **Bootstrap 5.3.8** per velocizzare la creazione di interfacce web responsive e migliorare l'aspetto visivo e il layout delle pagine.
+In questa cartella, per tutti i progetti dell'esercitazione (da `01-realtime-text-update` a `10-phone-contacts`), è stato integrato **Bootstrap 5.3.8** per velocizzare la creazione di interfacce web responsive e migliorare l'aspetto visivo e il layout delle pagine.
 
 ## Come è stato integrato
 
