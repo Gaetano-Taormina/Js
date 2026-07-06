@@ -26,4 +26,4 @@ show an alert 3 seconds after the page loads
   - Start a 3-second timer (setTimeout)
   - WHEN the timer expires
     - Show an alert to the user
-```
+```
